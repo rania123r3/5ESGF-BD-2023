@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HelloSpark": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\Dev\\AI\\Cours\\TPs\\ESGF\\2023\\HelloSpark\\input.txt\""
+    }
+  }
+}
